@@ -1,6 +1,4 @@
-# CNN LSTM Attention 股价预测
-
-新增了xgboost预测的代码：![点这里](./20221205.ipynb)
+# CNN LSTM Attention
 
 - CNN + LSTM
 - CNN + LSTM + ECA(attention)
